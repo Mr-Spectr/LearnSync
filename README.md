@@ -103,5 +103,6 @@ This project is licensed under the MIT License.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-> For questions, feel free to contact [your_email@example.com](mailto:your_email@example.com)
+> For questions, feel free to contact -
+[![Email](https://img.shields.io/badge/Email-Click%20Here-blue?style=for-the-badge&logo=gmail)](mailto:abhayrawat306@gmail.com)
 
