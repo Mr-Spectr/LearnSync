@@ -1,0 +1,18 @@
+# System and IDE files
+.vscode/
+*.log
+AppData/
+*.tmp
+*.bak
+
+# Node
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Personal
+credentials.txt
+*.db
